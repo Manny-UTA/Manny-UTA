@@ -134,8 +134,8 @@
 
       <!-- typing phrases -->
       <g class="mono" font-size="19" fill="url(#accentGrad)">
-        <text x="30" y="122" opacity="0">Frontend Engineer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="0s" dur="20s" repeatCount="indefinite"/></text>
-        <text x="30" y="122" opacity="0">Full Stack Developer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="4s" dur="20s" repeatCount="indefinite"/></text>
+        <text x="30" y="122" opacity="0">Full Stack Developer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="0s" dur="20s" repeatCount="indefinite"/></text>
+        <text x="30" y="122" opacity="0">Back End Developer<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="4s" dur="20s" repeatCount="indefinite"/></text>
         <text x="30" y="122" opacity="0">Open Source Contributor<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="8s" dur="20s" repeatCount="indefinite"/></text>
         <text x="30" y="122" opacity="0">AI / Data Enthusiast<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="12s" dur="20s" repeatCount="indefinite"/></text>
         <text x="30" y="122" opacity="0">UT Arlington · ColorStack President<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.16;0.19;1" begin="16s" dur="20s" repeatCount="indefinite"/></text>
