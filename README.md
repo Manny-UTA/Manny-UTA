@@ -1,4 +1,4 @@
-<img alt="Manuel Arellano — Software Engineer" src="./dark.svg" width="100%">
+<img alt="Manuel Arellano — Software Engineer" src="./light.svg" width="100%">
 
 <p align="center">
   <a href="https://linkedin.com/in/manuel-arellano-jr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
